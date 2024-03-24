@@ -1,4 +1,4 @@
-
+Let's begin!
 
 1) Produce: onion, bell pepper, garlic, tomatoes, parsley, frozen peas.
 2) Spices: bay leaf, paprika, saffron, salt and pepper.
@@ -9,3 +9,5 @@
 7) White wine
 8) Spanish Rice
 9) Chicken Broth
+
+Enjoy my recipe!
