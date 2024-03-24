@@ -6,4 +6,4 @@ line 2 changed remotely
 
 # link to original source in intredients.txt file
 last line changed locally
-### This is a LOCAL change :)
+### This is a REMOTE change :o 
